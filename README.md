@@ -88,10 +88,10 @@ Dette prosjektet er lisensiert under MIT-lisensen.
 
 ## Forventet resultat
 
-! [Forventet resultat](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png) <br>
+[Forventet resultat](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png) <br>
 ![Image_1](./images/bildet1.jpg)
 
-### 📫 Kontakt meg:
+### Kontakt meg:
 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/roykenvgs?label=follow&style=social)](https://github.com/roykenvgs)
 
@@ -102,7 +102,7 @@ Dette prosjektet er lisensiert under MIT-lisensen.
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-### Jeg jobber for tiden med:
+## Programmer jeg bruker:
 <p>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://iconape.com/wp-content/files/er/371108/svg/371108.svg" alt="html5" width="30" height="30"/></a> 
