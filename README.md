@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <h1 align="center">Netflix Clone</h1>
   <h3>
     <a href="https://github.com/roykenvgs/test">
