@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Netflix Clone</h1>
-  <h3>
-    <a href="#">
-      Lenke til prosjektet
-    </a>
-  </h3>
+  <h1 align="center">Netflix Clone</h1>
+    <h3>
+      <a href="#">Lenke til prosjektet </a>
+      <!-- https://github.com/roykenvgs/test -->
+      <!-- https://github.com/roykenvgs/detertest -->
+    </h3>
 </div>
 
 ## Innholdsfortegnelse
@@ -37,7 +37,7 @@ Krav til siden:
 
 - Bruke det tilsendte **bakgrunnsbildet** over hele siden.
 - Plassere en mørk boks oppå bildet
-- Lage et skjema 
+- Lage et skjema
 - Style skjemaet slik at det passer til **Netflix-stilen**:
   - rød knapp
   - hvit tekst i skjemaet
@@ -50,6 +50,7 @@ Krav til siden:
   - Bakgrunnsbilde (background-image)
   - Flexbox
   - Styling av input, select, checkbox, radio, textarea og knapp
+- [JS](https://www.w3schools.com/js/)
 
 ## Funksjoner
 
@@ -61,6 +62,7 @@ Krav til siden:
 ## Hvordan bruke prosjektet
 
 1. **Last ned** prosjektet eller klon repoet:
+<!-- Dette er backtick, ikke apostrof og gåseøyne -->
    ```
    bash
    git clone https://github.com/roykenvgs/test.git
@@ -69,15 +71,19 @@ Krav til siden:
 3. Dobbeltklikk på index.html for å åpne siden i nettleseren.
 4. Fyll inn skjemaet for å teste layout og funksjon.
 
-## Prosjektstruktur
+## Prosjektstruktur / Mappestruktur
 
 ```
 .
-├── index.html        
-├── style.css         
+├── index.html
+├── style.css
 ├── images/
-│   └── back.jpg   
-└── README.md         
+│   └── back.jpg
+│   └── bildet1.jpg
+└── README.md
 ```
+
 ## Forventet resultat
+
 ! [Forventet resultat](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
+![Image_1](./images/bildet1.jpg)
