@@ -102,9 +102,9 @@ Dette prosjektet er lisensiert under MIT-lisensen.
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-## Programmer jeg bruker:
+
 <p>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/></a> 
+Programmer jeg har brukt i prosjektet: <br>
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://iconape.com/wp-content/files/er/371108/svg/371108.svg" alt="html5" width="30" height="30"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://iconape.com/wp-content/files/dj/370768/png/370768.png" alt="css3" width="30" height="30"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" alt="javascript" width="30" height="30"/> </a> 
