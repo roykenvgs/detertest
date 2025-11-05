@@ -61,8 +61,11 @@ Krav til siden:
 
 ## Hvordan bruke prosjektet
 
+Dette prosjektet er lisensiert under MIT-lisensen. 
+(MIT-lisensen tillater fri bruk, kopiering, modifisering og distribusjon av programvare av alle.)
+
 1. **Last ned** prosjektet eller klon repoet:
-<!-- Dette er backtick, ikke apostrof og gåseøyne -->
+<!-- Bruk backtick i kodebiter. Dette er backtick, ikke apostrof og gåseøyne -->
    ```
    bash
    git clone https://github.com/roykenvgs/test.git
@@ -85,5 +88,5 @@ Krav til siden:
 
 ## Forventet resultat
 
-! [Forventet resultat](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
+! [Forventet resultat](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png) <br>
 ![Image_1](./images/bildet1.jpg)
