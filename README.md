@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Netflix Clone</h1>
   <h3>
-    <a href="https://github.com/roykenvgs/test">
+    <a href="#">
       Lenke til prosjektet
     </a>
   </h3>
